@@ -6,5 +6,8 @@ if hungry=="yes":
  
      
     else:
-     print("do your job")
+new=input("are you new?")
+if new=="yes":
+    print(" drnk water")
+    print(" drnk soda")
  
